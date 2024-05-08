@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm ALAVUDEEN</h1>
 <h3 align="center">Java Full Stack Developer, blending analytical thinking with programming expertise. Focused on solving real-world challenges and enhancing user experiences. Let's collaborate on turning innovative ideas into impactful solutions!</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjuntsuresh&label=Profile%20views&color=0e75b6&style=flat" alt="arjuntsuresh" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+//<img align="right" alt="Coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
