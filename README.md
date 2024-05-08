@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ALAVUDEEN</h1>
 <h3 align="center">Java Full Stack Developer, blending analytical thinking with programming expertise. Focused on solving real-world challenges and enhancing user experiences. Let's collaborate on turning innovative ideas into impactful solutions!</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">
 
 <img align="right" alt="Coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 
