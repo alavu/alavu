@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm ALAVUDEEN</h1>
 <h3 align="center">Java Full Stack Developer, blending analytical thinking with programming expertise. Focused on solving real-world challenges and enhancing user experiences. Let's collaborate on turning innovative ideas into impactful solutions!</h3>
 
-<p align="left"> <img src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif" alt="alavu" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alavu" alt="alavu" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
